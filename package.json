@@ -1,0 +1,30 @@
+{
+  "name": "react-native-manage-call-logs",
+  "version": "1.0.1",
+  "description": "React-native package for managing call logs in android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "^16.0.0",
+    "react-native": "^0.49.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnuragHarod/react-native-manage-call-logs.git"
+  },
+  "keywords": [
+    "react-native",
+    "call-logs",
+    "logs",
+    "android",
+    "npm"
+  ],
+  "author": "ahcodes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnuragHarod/react-native-manage-call-logs/issues"
+  },
+  "homepage": "https://github.com/AnuragHarod/react-native-manage-call-logs#readme"
+}
