@@ -1,6 +1,6 @@
 {
   "name": "react-native-manage-call-logs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React-native package for managing call logs in android",
   "main": "index.js",
   "scripts": {
