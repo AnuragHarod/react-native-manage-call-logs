@@ -70,7 +70,7 @@ import ManageCallLogs from 'react-native-manage-call-logs'
                 ManageCallLogs.getAll().then(data => {
                 console.log(data)
 			});
-			} else if {
+			} else {
 				alert('permission denied')
 			}
 		});
